@@ -7,3 +7,7 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: intro_historia.md
+- file: intro_macro.md
+- file: intro_micro.md
+- file: intro_finance.md
