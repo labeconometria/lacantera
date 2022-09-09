@@ -4,12 +4,15 @@
 format: jb-book
 root: intro
 parts: 
-  - caption: Historia
-    chapters:
-    - file: markdown
-    - file: notebooks
-    - file: markdown-notebooks
-    - file: intro_historia.md
-    - file: intro_macro.md
-    - file: intro_micro.md
-    - file: intro_finance.md
+- caption: Historia
+  chapters:
+  - file: intro_historia.md
+- caption: Microeconomía Aplicada
+  chapters:
+  - file: intro_micro.md
+- caption: Macroeconomía Aplicada
+  chapters:
+  - file: intro_macro.md
+- caption: Finanzas
+  chapters:
+  - file: intro_finance.md
