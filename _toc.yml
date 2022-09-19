@@ -15,4 +15,4 @@ parts:
   - file: intro_macro.md
 - caption: Finanzas
   chapters:
-  - file: intro_finance.md
+  - file: finance/intro_finance.md
